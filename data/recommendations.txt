@@ -1,0 +1,5 @@
+majestic_metro_gate2: deploy enforcement around 19:00-20:00 (priority 572.8, 10 violation(s) observed, avg impact 57.3/100)
+koramangala_5th_block: deploy enforcement around 19:00-20:00 (priority 253.3, 5 violation(s) observed, avg impact 50.7/100)
+indiranagar_100ft: deploy enforcement around 19:00-20:00 (priority 245.8, 7 violation(s) observed, avg impact 35.1/100)
+koramangala_5th_block: deploy enforcement around 20:00-21:00 (priority 240.3, 5 violation(s) observed, avg impact 48.1/100)
+silk_board_jn: deploy enforcement around 19:00-20:00 (priority 233.4, 8 violation(s) observed, avg impact 29.2/100)

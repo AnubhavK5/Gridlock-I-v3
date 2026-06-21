@@ -1,0 +1,3 @@
+location_id,video_path,lat,lon,lanes,road_width_m,simulated_start_time
+majestic_metro_gate2,../sample_videos/majestic_metro_gate2.mp4,12.9767,77.5713,2,7.0,2026-06-20T08:00:00
+koramangala_5th_block,../sample_videos/koramangala_5th_block.mp4,12.9352,77.6245,2,6.5,2026-06-20T18:00:00

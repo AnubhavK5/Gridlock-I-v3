@@ -1,0 +1,6 @@
+location_id,lat,lon,lanes,road_width_m,video_path,simulated_start_time
+majestic_metro_gate2,12.9767,77.5713,2,7.0,../sample_videos/majestic_metro_gate2.mp4,2026-06-20T08:00:00
+koramangala_5th_block,12.9352,77.6245,2,6.5,../sample_videos/koramangala_5th_block.mp4,2026-06-20T08:00:00
+indiranagar_100ft,12.9716,77.6412,3,10.0,../sample_videos/indiranagar_100ft.mp4,2026-06-20T08:00:00
+silk_board_jn,12.9172,77.6228,4,14.0,../sample_videos/silk_board_jn.mp4,2026-06-20T08:00:00
+whitefield_itpl,12.9858,77.7325,2,7.0,../sample_videos/whitefield_itpl.mp4,2026-06-20T08:00:00
